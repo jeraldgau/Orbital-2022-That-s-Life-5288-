@@ -261,22 +261,19 @@ We have implemented the Start new game button that brings you to the character n
 
 **Proof of Concept**
 
-[https://youtu.be/D5vnJWtORyc]
-(https://youtu.be/D5vnJWtORyc)
+https://youtu.be/D5vnJWtORyc
 
 <br />
 
 **Prototype Showcase**
 
-[https://youtu.be/2aEeh4R8m-E]
-(https://youtu.be/2aEeh4R8m-E)
+https://youtu.be/2aEeh4R8m-E
 
 <br />
 
 **Final Product Showcase**
 
-[https://youtu.be/rXyAr-JTd8g]
-(https://youtu.be/rXyAr-JTd8g)
+https://youtu.be/rXyAr-JTd8g
 
 <br />
 
